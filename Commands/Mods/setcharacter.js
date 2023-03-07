@@ -46,7 +46,7 @@ module.exports = {
 
 */
 
-      let botNames = ['Atlas MD', 'Power MD', 'Makima MD', 'Denji MD', 'Zero Two', 'Chika MD' , 'Miku MD', 'Marin MD','Ayanokoji MD','Ruka MD','Mizuhara MD','Rem MD','Sumi MD','Kaguya MD','Yumeko MD','Kurumi MD','Mai MD','Yor MD','Shinbou MD','Eiko MD']
+      let botNames = ['【ᴠɪʜᴀɴɢᴀ ᴛʜᴇᴇᴋꜱʜᴀɴᴀ ᴍᴅ】', 'Power MD', 'Makima MD', 'Denji MD', 'Zero Two', 'Chika MD' , 'Miku MD', 'Marin MD','Ayanokoji MD','Ruka MD','Mizuhara MD','Rem MD','Sumi MD','Kaguya MD','Yumeko MD','Kurumi MD','Mai MD','Yor MD','Shinbou MD','Eiko MD']
       let botLogos =[
         'https://wallpapercave.com/wp/wp5924545.jpg',
         'https://wallpapercave.com/wp/wp11253614.jpg',
