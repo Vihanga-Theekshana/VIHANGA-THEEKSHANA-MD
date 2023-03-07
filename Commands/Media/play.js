@@ -6,7 +6,7 @@ module.exports = {
   desc: "To play a song from youtube",
   category: "Media",
   usage: `play <song name>`,
-  react: "🍁",
+  react: "🎡",
   start: async (Miku, m, { text, prefix, args }) => {
     if (!args[0])
       return Miku.sendMessage(
@@ -49,7 +49,7 @@ module.exports = {
 *Channel :* _${song.author.name}_
 
 *Url :* _${song.url}_\n\n`,
-      footer: `*${botName}*`,
+      footer: `*【ᴠɪʜᴀɴɢᴀ ᴛʜᴇᴇᴋꜱʜᴀɴᴀ ᴍᴅ】*`,
       buttons: buttons,
       headerType: 4,
     };
