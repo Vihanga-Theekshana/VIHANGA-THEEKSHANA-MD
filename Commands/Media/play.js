@@ -2,7 +2,7 @@ const yts = require("youtube-yts");
 
 module.exports = {
   name: "play",
-  alias: ["ytplay", "song"],
+  alias: ["yt", "song"],
   desc: "To play a song from youtube",
   category: "Media",
   usage: `play <song name>`,
